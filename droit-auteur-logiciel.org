@@ -1,5 +1,7 @@
 #+title: Logiciels & droit d'auteur
-#+options: num:t
+#+author: Etalab
+#+date: Novembre 2019
+#+options: num:t toc:2
 
 * Droit d'auteur & logiciels : régime général
 

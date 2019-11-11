@@ -7,6 +7,8 @@ des enseignants-chercheurs.
 
 *Attention *: ces notes ne forment pas la doctrine juridique sur le sujet.
 
+Accéder au document [[file:droit-auteur-logiciel.org][en ligne]] ou [[file:droit-auteur-logiciel.pdf][en PDF]].
+
 * Questions
 
 Si vous avez des questions sur l’application du droit d’auteur aux
