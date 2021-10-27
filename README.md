@@ -15,7 +15,7 @@ Accéder au document [en ligne](droit-auteur-logiciel.md) ou [en PDF](droit-aute
 
 Si vous avez des questions sur l’application du droit d’auteur aux
 logiciels pour votre administration publique, vous pouvez écrire à
-`opensource@data.gouv.fr`.
+`logiciels-libres@data.gouv.fr`.
 
 
 # Licence
