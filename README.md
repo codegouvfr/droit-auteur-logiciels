@@ -22,5 +22,5 @@ logiciels pour votre administration publique, vous pouvez écrire à
 
 Le contenu de ce dépôt est sous [licence Ouverte 2.0](LICENSE.md).
 
-2019 DINSIC, Etalab.
+2019-2021 DINSIC, Etalab.
 
