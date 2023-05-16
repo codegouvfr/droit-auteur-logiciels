@@ -15,12 +15,12 @@ Accéder au document [en ligne](droit-auteur-logiciel.md) ou [en PDF](droit-aute
 
 Si vous avez des questions sur l’application du droit d’auteur aux
 logiciels pour votre administration publique, vous pouvez écrire à
-`logiciels-libres@data.gouv.fr`.
+`contact@code.gouv.fr`.
 
 
 # Licence
 
 Le contenu de ce dépôt est sous [licence Ouverte 2.0](LICENSE.md).
 
-2019-2023 DINSIC, Etalab.
+2019-2023 DINSIC, DINUM, Etalab.
 
