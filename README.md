@@ -1,3 +1,5 @@
+[![img](https://img.shields.io/badge/code.gouv.fr-publi%C3%A9-orange.svg)](https://code.gouv.fr/documentation/#/publier.md)
+
 
 # Description
 

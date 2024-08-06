@@ -1,3 +1,5 @@
+[[https://code.gouv.fr/documentation/#/publier.md][https://img.shields.io/badge/code.gouv.fr-publi%C3%A9-orange.svg]]
+
 * Description
 
 Ce dépôt contient des éléments de droit concernant l’application du
